@@ -17,8 +17,9 @@
 * Ministerios que han entregado planes de migración: 39,13%
 * Migración Alcaldía del Municipio Sucre estado Miranda:
     27 aplicaciones libres, 21 desarrolladas por ellos, 8 servicios migrados. De un total de 700 equipos de computación, mas del 50% se encuentran en Software Libre y el resto con doble boot, el 60% de sus servicios tecnológicos están migrados.
-Rialca (Centro de producción de Rines de Aluminios RIALCA, c.a):
+* Rialca (Centro de producción de Rines de Aluminios RIALCA, c.a):
     * Servidores 3 migrados a software Libre
     * Equipos escritorio + laptop 124. Migrados 114
     * % Migrados a Software Libre: 92%
+    * Estadísticas al 29 de enero del 2016, provistas por la empresa
 
