@@ -37,6 +37,9 @@ Migrados correo, dns y dhcp, administración de identidades, control de acceso a
 múltiples servidores de aplicaciones, virtualización, monitoreo de red
 20-30% de escritorios migrados (sobre un total de 3000 aprox.)
 
+###Centro de Producción de Rines de Aluminio Rialca
+Servidores bajo software libre
+92% de los equipos de escriotrio y laptops migrados. (Sobre un total de 115 equipos)
 
 OTROS:
 
