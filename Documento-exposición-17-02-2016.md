@@ -1,6 +1,13 @@
 #Puntos a plantear ante la Comisión de Ciencia y Tecnología de la AN
 
-Los puntos que se consensuaron son:
+El día 17-02-2016 se asiste a sesión de la Comisión de CyT de la AN a plantear una serie de puntos de parte de la CSL.
+Los voceros designados son: Carmen Ojeda, José Subero y Alberto Mijares, y acompañará David Lopez (gonzoucab).
+
+Se dispone de 15 min. para la presentación ante la Comisión y se debe ser consiso y estár preparado para cualquier comentario o pregunta que pueda venir de los Diputados.
+
+Se debe hacer una introducción somera con las ventajas del Software Libre y con una invitación abierta a todos los Diputados y Diputadas interesados a tener una jornada de sensibilización de estos puntos, para posteriormente avanzar a presentar los puntos que se consensuaron en la reunión del 10-2-2016. 
+
+###Los puntos que se consensuaron son:
 
 * Punto 1: Es necesario pedir ejercer la contraloría para la aplicación de la ley de infogobierno (y del resto del marco legal) tanto a todos los sujetos obligados por ella como a los órganos del ejecutivo encargados para su ejecución e implementación.
 	- Se debe solicitar información, y de ser necesario comparecer ante esta Comisión, a las autoridades de la Comisión Nacional de Tecnologías de Información (CONATI), Centro Nacional de Tecnologías de Información (CNTI) y Superintendencia de Servicios de Certificación Electrónica (SUSCERTE), acerca del cumplimiento de sus competencias y atribuciones establecidas en la Ley de Infogobierno.
