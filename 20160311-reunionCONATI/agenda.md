@@ -33,6 +33,7 @@ Solicitud de acceso de información de planes de migración o adaptación a tecn
 El objetivo de esta solicitud es construir un mapa de la situación actual de las tecnologías de información libres en el Poder Público, en particular se necesita:
 
 a) Conocer cuál es el universo (cantidad de instituciones).
+
 b) Identificar quienes tienen dificultades y cuáles son.
 
 A partir de esta información se pretende determinar los nudos críticos recurrentes y poder establecer propuestas y/o mecanismos de colaboración.
