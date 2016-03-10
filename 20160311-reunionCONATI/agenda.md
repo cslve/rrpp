@@ -26,5 +26,5 @@ https://pad.riseup.net
 En fin una cantidad de herramientas que facilitan la inclusión, legitimización y construcción de 
 contenidos de manera colectiva y democrática.
 
-
+Es necesario tener identificadas las instituciones del estado que carecen de la tecnología necesaria para la aplicación del un reglamento, este debe surgir de la redacción colaborativa del mismo, para hacer un reglamento ajustado a la realidad hay que tener claro cual es el parque tecnológico del estado y sus avances en la migración.|
  
