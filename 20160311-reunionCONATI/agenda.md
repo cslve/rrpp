@@ -31,6 +31,7 @@ contenidos de manera colectiva y democrática.
 Solicitud de acceso de información de planes de migración o adaptación a tecnologías de información libres realizados hasta el 17 de agosto de 2015 por parte del Poder Público.
 
 El objetivo de esta solicitud es construir un mapa de la situación actual de las tecnologías de información libres en el Poder Público, en particular se necesita:
+
 a) Conocer cuál es el universo (cantidad de instituciones).
 b) Identificar quienes tienen dificultades y cuáles son.
 
