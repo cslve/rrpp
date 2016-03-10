@@ -32,7 +32,7 @@ Es necesario tener identificadas las instituciones del estado que carecen de la 
 
 Solicitud de acceso de información de planes de migración o adaptación a tecnologías de información libres realizados hasta el 17 de agosto de 2015 por parte del Poder Público.
 
-El objetivo de esta solicitud es construir un mapa de la situación actual de las tecnologías de información libres en el Poder Público, en particular se necesita:
+El objetivo de esta solicitud es construir un mapa de la situación actual de las tecnologías de información libres en el Poder Público, que pueda servir para generar planes de acción y migración con la inclusión desde diferentes pertinencias territoriales, esto es que al ver la realidad sobre el territorio la comunidad de software libre nacional pueda aportar desde su proximidad geográfica,  en particular se necesita:
 
 a) Conocer cuál es el universo (cantidad de instituciones).
 
