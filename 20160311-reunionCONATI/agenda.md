@@ -5,7 +5,7 @@ La metodología asumida por la CONATI para la participación en la construcción
 de reglamento para la ley de Infogobierno (envío de un correo electrónico contentivo de un archivo 
 .odt el cual debe ser editado y renviado de vuelta), no es la más ágil y creemos que no contribuye
 con el trabajo colaborativo el cual es parte del espíritu de las comunidades que promueven el uso 
-de las tecnologías libres. Aedemás es un proceso sujeto a la discrecionalidad devenida de conocer
+de las tecnologías libres. Además es un proceso sujeto a la discrecionalidad devenida de conocer
 los buzones de correos correspondientes de quienes creemos deben participar en dicha redacción, lo 
 que lo hace excluyente.
 
@@ -19,14 +19,14 @@ Para ello se recomienda el uso de una plataforma libre y segura como lo es https
 que es una plataforma que integra una página web (wiki), mensajes directos, foros y hasta videochats
 fomentando el trabajo en grupo, pero no es la única herramienta existente, pueden revisar:
 
-https://titanpad.com
-https://ethercalc.org
-https://pad.riseup.net
+* https://titanpad.com
+* https://ethercalc.org
+* https://pad.riseup.net
 
-En fin una cantidad de herramientas que facilitan la inclusión, legitimización y construcción de 
+En fin, una cantidad de herramientas que facilitan la inclusión, legitimización y construcción de 
 contenidos de manera colectiva y democrática.
 
-Es necesario tener identificadas las instituciones del estado que carecen de la tecnología necesaria para la aplicación del un reglamento, este debe surgir de la redacción colaborativa del mismo, para hacer un reglamento ajustado a la realidad hay que tener claro cual es el parque tecnológico del estado y sus avances en la migración.
+Es necesario tener identificadas las instituciones del estado que carecen de la tecnología necesaria para la aplicación de un reglamento, este debe surgir de la redacción colaborativa del mismo, para hacer un reglamento ajustado a la realidad hay que tener claro cuál es el parque tecnológico del Estado y sus avances en la migración.
 
 ## Propuesta 2
 
