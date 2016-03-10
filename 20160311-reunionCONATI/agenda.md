@@ -26,6 +26,8 @@ https://pad.riseup.net
 En fin una cantidad de herramientas que facilitan la inclusión, legitimización y construcción de 
 contenidos de manera colectiva y democrática.
 
+Es necesario tener identificadas las instituciones del estado que carecen de la tecnología necesaria para la aplicación del un reglamento, este debe surgir de la redacción colaborativa del mismo, para hacer un reglamento ajustado a la realidad hay que tener claro cual es el parque tecnológico del estado y sus avances en la migración.
+
 ## Propuesta 2
 
 Solicitud de acceso de información de planes de migración o adaptación a tecnologías de información libres realizados hasta el 17 de agosto de 2015 por parte del Poder Público.
